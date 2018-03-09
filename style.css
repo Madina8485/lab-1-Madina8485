@@ -1,0 +1,9 @@
+body{background-color:#c5b8fe;}
+h2{color:#9009d6;}
+p{color:#30143e;}
+hr{color:#30143e;}
+img{height:250px; width: 250px;}
+img .sad{float:right; margin-left: 10px;}
+img .happy{float:left; margin-right: 10px;}
+ol a.site{color: blue; text-decoration: none;}
+ol a.site:hover {color: #30143e;}
